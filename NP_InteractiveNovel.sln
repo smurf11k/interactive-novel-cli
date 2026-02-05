@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NP_InteractiveNovel", "NP_InteractiveNovel\NP_InteractiveNovel.csproj", "{5A8E5B29-5AD9-46F6-A6F6-9E68EA8C8930}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A8E5B29-5AD9-46F6-A6F6-9E68EA8C8930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A8E5B29-5AD9-46F6-A6F6-9E68EA8C8930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A8E5B29-5AD9-46F6-A6F6-9E68EA8C8930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A8E5B29-5AD9-46F6-A6F6-9E68EA8C8930}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04ADD6A9-B4F0-4DE3-A207-AAD3DA6A4C23}
+	EndGlobalSection
+EndGlobal

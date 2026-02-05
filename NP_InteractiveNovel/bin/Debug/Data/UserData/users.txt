@@ -1,0 +1,7 @@
+1	1	admin	1email@gmail.com
+2	0	user	2email@gmail.com
+smurf	1234	user	smurfs@Email
+k	1234	user	k@
+tokyo	1x2	user	t@
+adrien	1309	admin	munkacy@
+money	12345	user	m@
